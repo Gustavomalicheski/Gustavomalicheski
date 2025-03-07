@@ -2,7 +2,7 @@
 
 - MEU NOME É GUSTAVO
 
-- ESTOU TAMBEM NO [ALURA](https://www.alura.com.br)
+- ESTOU TAMBÉM NO [ALURA](https://www.alura.com.br)
 - ESTOU NA PLATAFORMA PARA APRENDER E REALIZAR ATIVIDADES ESCOLARES
 
 
