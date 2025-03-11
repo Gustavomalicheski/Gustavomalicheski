@@ -12,7 +12,7 @@
   
 gustavo.malicheski@escola.pr.gov.br
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/) https://instagram.com/guh_lucotti?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/) https://www.instagram.com/guh_lucotte?igsh=MXFoZjB6bThzM2t6bg==
 
 
 ![](https://media.tenor.com/Rg24TsjaduYAAAAd/ronaldo-cristiano-ronaldo.gif)
